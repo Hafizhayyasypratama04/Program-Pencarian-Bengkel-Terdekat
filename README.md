@@ -21,10 +21,4 @@
 
 ---
 
-## :rocket: Instalasi dan Penggunaan
 
-### 1. Kloning atau Unduh Repository
-Unduh proyek ini ke komputer Anda dengan menggunakan Git:
-```bash
-git clone https://github.com/yourusername/sistem-pencarian-bengkel.git
-cd sistem-pencarian-bengkel
